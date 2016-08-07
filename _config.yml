@@ -1,4 +1,3 @@
-layout_spectrum: 0.7031124127097428
 typography_spectrum: 0.2714232737198472
 color:
   brandStrength: 0.6811507223173976
@@ -11,5 +10,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+layout_spectrum: 0.7031124127097428
 name: Digital Dreaming
 title: An AI Digital Dream...
+description: What do you think?
